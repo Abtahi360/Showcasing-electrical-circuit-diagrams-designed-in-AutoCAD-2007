@@ -4,7 +4,7 @@ This repository contains a single AutoCAD 2007 `.dwg` file with four electrical 
 
 ---
 
-## ✨ What’s Used
+## What’s Used
 
 - **Software**: AutoCAD 2007
 - **File Format**: `.dwg` (AutoCAD Drawing)

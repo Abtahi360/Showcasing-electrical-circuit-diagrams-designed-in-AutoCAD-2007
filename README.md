@@ -54,8 +54,11 @@ Feel free to fork this repository, modify the circuits, or add new designs. Subm
 ---
 
 ## 📷 **Screenshots**
-*![Image](https://github.com/user-attachments/assets/c317dcc9-243f-4a61-99df-f32b3aa3fb55)
-![Image](https://github.com/user-attachments/assets/2bde3afa-2f83-4155-97e8-cab941daed2e)*
+*![Image](https://github.com/user-attachments/assets/44f57736-eb75-48b1-b303-de845f8a5c8b)
+![Image](https://github.com/user-attachments/assets/4265aa57-37ec-40b0-b977-7a594dbc19af)
+![Image](https://github.com/user-attachments/assets/d747500b-d38d-4626-a01e-b1b4f72d3e6e)
+![Image](https://github.com/user-attachments/assets/def25860-2a99-4ed3-93a0-c19565a8d55b)
+*
 
 ---
 

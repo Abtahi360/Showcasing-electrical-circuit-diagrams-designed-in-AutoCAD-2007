@@ -70,6 +70,10 @@ Feel free to fork this repository, modify the circuits, or add new designs. Subm
 
 ![Image](https://github.com/user-attachments/assets/d006e9cf-89db-4e7b-bc0b-8e6b12746e1e)
 
+- 5th Figure: 2A  -->  **File Name:** 2A_ABTAHI ISLAM.dwg
+
+![Image](https://github.com/user-attachments/assets/c735dc67-1db8-4746-9bd0-a7b8df95dace)
+
 
 ---
 

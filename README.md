@@ -54,10 +54,20 @@ Feel free to fork this repository, modify the circuits, or add new designs. Subm
 ---
 
 ## 📷 **Screenshots**
+- 1st Figure: 1A  -->  **File Name:** 1A 1B 1C 1D_ABTAHI ISLAM.dwg
+
 ![Image](https://github.com/user-attachments/assets/501d2cea-74b5-40b5-818c-14f02392b11f)
-:Figure - 1A    File Name 1A 1B 1C 1D_ABTAHI ISLAM.dwg:
+
+- 2nd Figure: 1B  -->  **File Name:** 1A 1B 1C 1D_ABTAHI ISLAM.dwg
+
 ![Image](https://github.com/user-attachments/assets/4ac947fb-d90f-48bd-b5cb-ebdb32f8f238)
+
+- 3rd Figure: 1C  -->  **File Name:** 1A 1B 1C 1D_ABTAHI ISLAM.dwg
+
 ![Image](https://github.com/user-attachments/assets/af72c3fd-55aa-473d-96a6-3f7221ad1a42)
+
+- 4th Figure: 1D  -->  **File Name:** 1A 1B 1C 1D_ABTAHI ISLAM.dwg
+
 ![Image](https://github.com/user-attachments/assets/d006e9cf-89db-4e7b-bc0b-8e6b12746e1e)
 
 

@@ -90,6 +90,23 @@ Feel free to fork this repository, modify the circuits, or add new designs. Subm
 
 ![Image](https://github.com/user-attachments/assets/7925c2ef-62b9-4696-97fe-5db3a0d811ac)
 
+- 11th Figure  -->  **File Name:** Practice1.dwg
+
+![Image](https://github.com/user-attachments/assets/19dab615-323b-4e15-a73a-06a5a964f5f3)
+
+- 12th Figure  -->  **File Name:** Practice2.dwg
+
+![Image](https://github.com/user-attachments/assets/20ed01e7-286a-411e-bfca-19d1998a7d39)
+
+- 13th Figure  -->  **File Name:** Practice3.dwg
+
+![Image](https://github.com/user-attachments/assets/0fbd3466-9651-4e34-81b0-04e9c98f9528)
+
+- 14th Figure  -->  **File Name:** Practice4.dwg
+
+![Image](https://github.com/user-attachments/assets/52c774c8-9aed-4e40-92b4-4c3725e456ab)
+
+
 
 
 

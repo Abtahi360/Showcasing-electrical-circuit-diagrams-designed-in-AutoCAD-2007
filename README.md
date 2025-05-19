@@ -74,6 +74,24 @@ Feel free to fork this repository, modify the circuits, or add new designs. Subm
 
 ![Image](https://github.com/user-attachments/assets/c735dc67-1db8-4746-9bd0-a7b8df95dace)
 
+- 7th Figure: Electric Conduit Layout Based on Civil Planning  -->  **File Name:** Electric Conduit Layout based on Civil planning_ABTAHI ISLAM.dwg
+
+![Image](https://github.com/user-attachments/assets/baf4d223-da04-4c5d-918b-b45b36ee9e0a)
+
+- 8th Figure: Relative Positions of Views on Sides of Unfolding Box in Third Angle Projection  -->  **File Name:** Third Angle Projection_ABTAHI ISLAM.dwg
+
+![Image](https://github.com/user-attachments/assets/ad7156bc-a216-4537-91fd-ddeb1d3a642d)
+
+- 9th Figure: Isometric projection (dimensions are in INCH)  -->  **File Name:** Isometric projection_ABTAHI ISLAM.dwg
+
+![Image](https://github.com/user-attachments/assets/b5211262-2909-4c34-8273-7a61c98b0735)
+
+- 10th Figure: Isometric projection (dimensions are in INCH)  -->  **File Name:** Isometric projection_1_ABTAHI ISLAM.dwg
+
+![Image](https://github.com/user-attachments/assets/7925c2ef-62b9-4696-97fe-5db3a0d811ac)
+
+
+
 
 ---
 

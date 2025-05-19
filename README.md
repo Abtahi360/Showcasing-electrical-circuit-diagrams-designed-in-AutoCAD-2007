@@ -106,9 +106,61 @@ Feel free to fork this repository, modify the circuits, or add new designs. Subm
 
 ![Image](https://github.com/user-attachments/assets/52c774c8-9aed-4e40-92b4-4c3725e456ab)
 
+- 15th Figure  -->  **File Name:** Practice5.dwg
 
+![Image](https://github.com/user-attachments/assets/a634bffa-1f2c-4733-aa20-7f0c59a0a502)
 
+- 16th Figure  -->  **File Name:** Practice6.dwg
 
+![Image](https://github.com/user-attachments/assets/e177d1c8-d814-4493-b91a-bd486f7c354d)
+
+- 17th Figure  -->  **File Name:** Practice6.dwg
+
+![Image](https://github.com/user-attachments/assets/b69df70d-d5d9-483a-8013-362586101a23)
+
+- 18th Figure  -->  **File Name:** Practice6.dwg
+
+![Image](https://github.com/user-attachments/assets/0a7b2388-7f5d-486c-9521-be395b251439)
+
+- 19th Figure  -->  **File Name:** Practice6.dwg
+
+![Image](https://github.com/user-attachments/assets/7cfe87a7-e67f-4f06-9376-e7f241a2513f)
+
+- 20th Figure  -->  **File Name:** Practice6.dwg
+
+![Image](https://github.com/user-attachments/assets/ed3cc1e8-b363-439d-912d-85662b424544)
+
+- 21th Figure  -->  **File Name:** Practice6.dwg
+
+![Image](https://github.com/user-attachments/assets/3d8ebf77-60c3-4b84-89a0-082cff4bd46c)
+
+- 22th Figure  -->  **File Name:** Practice7.dwg
+
+![Image](https://github.com/user-attachments/assets/39529311-86f3-473a-a749-5b56a01312d1)
+
+- 23th Figure  -->  **File Name:** Practice8.dwg
+
+![Image](https://github.com/user-attachments/assets/1dd5897f-3d57-4024-a523-049aebc1f5b3)
+
+- 24th Figure  -->  **File Name:** Practice9.dwg
+
+![Image](https://github.com/user-attachments/assets/67faa1cc-712e-4519-9bf4-2fbb2f58e506)
+
+- 25th Figure  -->  **File Name:** Practice10.dwg
+
+![Image](https://github.com/user-attachments/assets/2b41eb2a-06e6-47a6-a5b5-74a298390422)
+
+- 26th Figure  -->  **File Name:** Practice11.dwg
+
+![Image](https://github.com/user-attachments/assets/fc96918b-1311-4997-8ff4-249f018afa59)
+
+- 27th Figure  -->  **File Name:** Practice12.dwg
+
+![Image](https://github.com/user-attachments/assets/df9781cf-da68-42f7-a61a-1d0db6eda428)
+
+- 28th Figure  -->  **File Name:** Practice13.dwg
+
+![Image](https://github.com/user-attachments/assets/cd52c62c-8ae1-4ecd-8cb6-fe3236a35a7a)
 
 ---
 

@@ -162,6 +162,14 @@ Feel free to fork this repository, modify the circuits, or add new designs. Subm
 
 ![Image](https://github.com/user-attachments/assets/cd52c62c-8ae1-4ecd-8cb6-fe3236a35a7a)
 
+- 29th Figure  -->  **File Name:** s.dwg
+
+<img width="1492" height="659" alt="Image" src="https://github.com/user-attachments/assets/ea993ef7-f946-43eb-a925-ce22c4a411ce" />
+
+- 30th Figure  -->  **File Name:** s.dwg
+
+<img width="1172" height="613" alt="Image" src="https://github.com/user-attachments/assets/63063143-e33e-4930-8fca-5c23d957f08c" />
+
 ---
 
 ## 👨‍💻 Author
